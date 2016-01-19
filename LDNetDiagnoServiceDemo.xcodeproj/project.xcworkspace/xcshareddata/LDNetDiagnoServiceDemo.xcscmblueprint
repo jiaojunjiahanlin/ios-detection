@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8ED7E694076EF34980CC7AF37580184CF1DD8113",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8ED7E694076EF34980CC7AF37580184CF1DD8113" : 0,
+    "1EEA9B9CD25EF29B3A91A42C798549A4931FFF56" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DB204A62-C194-4C53-8242-D60C11A19239",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8ED7E694076EF34980CC7AF37580184CF1DD8113" : "LDNetDiagnoService_IOS",
+    "1EEA9B9CD25EF29B3A91A42C798549A4931FFF56" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LDNetDiagnoServiceDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LDNetDiagnoServiceDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.ms.netease.com\/commonlibraryios\/urs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1EEA9B9CD25EF29B3A91A42C798549A4931FFF56"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.ms.netease.com\/commonlibraryios\/LDNetDiagnoService_IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8ED7E694076EF34980CC7AF37580184CF1DD8113"
+    }
+  ]
+}
